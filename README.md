@@ -12,6 +12,12 @@ Create a virtual enviroment
 python -m venv env
 ```
 
+Install package
+
+```bash
+pip install -r requirements.txt
+```
+
 Run flask
 
 ```bash
