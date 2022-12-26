@@ -23,3 +23,6 @@ Run flask
 ```bash
 flask --app .\app.py --debug run
 ```
+
+Link API POSTMAN
+https://documenter.getpostman.com/view/23947627/2s8YmSsM6f
